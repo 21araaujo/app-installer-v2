@@ -128,7 +128,7 @@ echo Installing
 echo.
 echo Wait...
 
-winget install Google.Chrome --accept-source-agreements --accept-package-agreements >nul
+winget install Google.Chrome --accept-source-agreements --accept-package-agreements
 
 echo.
 echo Google Chrome installed
@@ -146,7 +146,7 @@ echo Installing
 echo.
 echo Wait...
 
-winget search WhatsApp --accept-source-agreements --accept-package-agreements >nul
+winget search WhatsApp --accept-source-agreements --accept-package-agreements
 
 echo.
 pause
@@ -163,7 +163,7 @@ echo Installing
 echo.
 echo Wait...
 
-winget search Opera.Opera --accept-source-agreements --accept-package-agreements >nul
+winget search Opera.Opera --accept-source-agreements --accept-package-agreements
 
 echo.
 pause
@@ -180,7 +180,7 @@ echo Installing
 echo.
 echo Wait...
 
-winget install 7zip.7zip --accept-source-agreements --accept-package-agreements >nul
+winget install 7zip.7zip --accept-source-agreements --accept-package-agreements
 
 echo.
 pause
@@ -197,7 +197,7 @@ echo Installing
 echo.
 echo Wait...
 
-winget install VideoLAN.VLC --accept-source-agreements --accept-package-agreements >nul
+winget install VideoLAN.VLC --accept-source-agreements --accept-package-agreements
 
 echo.
 pause
@@ -214,23 +214,23 @@ echo Wait...
 
 echo.
 echo Installing Google Chrome...
-winget install Google.Chrome --accept-source-agreements --accept-package-agreements >nul
+winget install Google.Chrome --accept-source-agreements --accept-package-agreements
 
 echo.
 echo Installing WhatsApp...
-winget install WhatsApp --accept-source-agreements --accept-package-agreements >nul
+winget install WhatsApp --accept-source-agreements --accept-package-agreements
 
 echo.
 echo Installing Opera...
-winget install Opera.Opera --accept-source-agreements --accept-package-agreements >nul
+winget install Opera.Opera --accept-source-agreements --accept-package-agreements
 
 echo.
 echo Installing 7-Zip...
-winget install 7zip.7zip --accept-source-agreements --accept-package-agreements >nul
+winget install 7zip.7zip --accept-source-agreements --accept-package-agreements
 
 echo.
 echo Installing VLC...
-winget install VideoLAN.VLC --accept-source-agreements --accept-package-agreements >nul
+winget install VideoLAN.VLC --accept-source-agreements --accept-package-agreements
 
 echo.
 echo All the Programs were installed!
